@@ -1,0 +1,43 @@
+#topBox {
+    background-color: white;
+    border: black solid 5px;
+    height: 200px;
+    margin: 20px 10px;
+}
+
+#smallrec {
+    background-color: rgb(206, 50, 206);
+    width: 40px;
+    height: 130px;
+    /* vertical-align: bottom; */
+    top: 50%;
+    margin-top: 55px;
+    margin-left: 12px;
+}
+
+#bigrec {
+    /* position: relative; */
+    background-color: green;
+    width: 350px;
+    height: 175px;
+    margin-top: -172px;
+    margin-left: 100px;
+}
+
+#middleBox {
+    background-color: white;
+    border: black dotted 5px;
+    height: 300px;
+    margin: 20px 10px;
+}
+
+#bottomBox {
+background-color: white;
+    border: lightgray solid 1px;
+    height: 350px;
+    width: 50%;
+    margin: 20px 10px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+}
